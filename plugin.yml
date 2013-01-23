@@ -1,0 +1,27 @@
+name: MCVitality-Info
+main: com.mcvitality.info.Info
+version: 3.0
+author: thedjtrollin
+description: >
+             Infomation for the server e.g. how to donate.
+commands:
+  Donate:
+    description: Show the link to donate
+    usage: |
+            /donate
+  Facebook:
+    description: Show the link to the facebook page
+    usage: |
+            /facebook
+  Website:
+    description: Show the URL for the website
+    usage: |
+            /website 
+  Vote:
+    description: Show the link to vote
+    usage: |
+            /vote
+  trusted:
+    description: Show how to get Trusted
+    usage: |
+            /trusted
