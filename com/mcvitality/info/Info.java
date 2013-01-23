@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.mcvitality.info;
 
 import org.bukkit.ChatColor;
@@ -63,7 +59,7 @@ public class Info extends JavaPlugin {
             s.sendMessage(ChatColor.DARK_RED +"[4] " + ChatColor.BLUE +"Click the link and follow us on twitter: http://twitter.com/mcvitality_dev");
             s.sendMessage(ChatColor.DARK_RED +"[5] " + ChatColor.BLUE +"Check on the website to make sure you have 25 Posts");
             s.sendMessage(ChatColor.DARK_RED +"[6] " + ChatColor.BLUE +"Post a promotion request on the promotion section of the forums.");
-            s.sendMessage(ChatColor.RED + "Requests can take upto 24 hours to be approved");
+            s.sendMessage(ChatColor.RED + "Requests can take up to 24 hours to be approved");
         }
 
                     return true;
