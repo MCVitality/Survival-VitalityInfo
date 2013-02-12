@@ -50,18 +50,6 @@ public class Info extends JavaPlugin {
             s.sendMessage(ChatColor.RED + "You can vote every 24 hours");
         }
                                                                                 
-                                                                                
-                                                                             if(l.equalsIgnoreCase("trusted")) {
-            s.sendMessage(ChatColor.GOLD + "=================" + ChatColor.BLUE +"[" + ChatColor.GOLD + ChatColor.MAGIC + "fd" + ChatColor.DARK_RED + ChatColor.BOLD + "MCVitality" + ChatColor.GOLD + ChatColor.MAGIC + "fd" + ChatColor.BLUE + "]"+ ChatColor.GOLD + "=================" );
-            s.sendMessage(ChatColor.DARK_RED +"[1] " + ChatColor.BLUE +"Click the link: http://mcvitality.com");
-            s.sendMessage(ChatColor.DARK_RED +"[2] " + ChatColor.BLUE +"Signup by clicking " + ChatColor.GREEN + "'Sign up'" );
-            s.sendMessage(ChatColor.DARK_RED +"[3] " + ChatColor.BLUE +"Click the link and like the facebook page: http://facebook.com/mcvitality");
-            s.sendMessage(ChatColor.DARK_RED +"[4] " + ChatColor.BLUE +"Click the link and follow us on twitter: http://twitter.com/mcvitality_dev");
-            s.sendMessage(ChatColor.DARK_RED +"[5] " + ChatColor.BLUE +"Check on the website to make sure you have 25 Posts");
-            s.sendMessage(ChatColor.DARK_RED +"[6] " + ChatColor.BLUE +"Post a promotion request on the promotion section of the forums.");
-            s.sendMessage(ChatColor.RED + "Requests can take up to 24 hours to be approved");
-        }
-
-                    return true;
+          return true;
     }
 }
