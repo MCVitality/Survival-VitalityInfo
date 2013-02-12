@@ -21,7 +21,3 @@ commands:
     description: Show the link to vote
     usage: |
             /vote
-  trusted:
-    description: Show how to get Trusted
-    usage: |
-            /trusted
