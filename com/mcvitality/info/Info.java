@@ -32,7 +32,7 @@ public class Info extends JavaPlugin {
         }
                         if(l.equalsIgnoreCase("facebook")) {
            s.sendMessage(ChatColor.GOLD + "=================" + ChatColor.BLUE +"[" + ChatColor.GOLD + ChatColor.MAGIC + "fd" + ChatColor.DARK_RED + ChatColor.BOLD + "MCVitality" + ChatColor.GOLD + ChatColor.MAGIC + "fd" + ChatColor.BLUE + "]"+ ChatColor.GOLD + "=================" );
-            s.sendMessage(ChatColor.WHITE + "Like us on Facebook " + ChatColor.GOLD + "http://facebook.com/MCVitality");
+            s.sendMessage(ChatColor.WHITE + "Like us on Facebook " + ChatColor.GOLD + "http://facebook.com/MinecraftVitality");
             
         }
                                         if(l.equalsIgnoreCase("website")) {
